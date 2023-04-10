@@ -1,9 +1,9 @@
 # 311581012-bdaf-lab5
 
 ## ERC20 token contract: 
-    - 18 decimals.
-    - Minting and burning capability with onlyOwner access control.
-    - Ability to transfer ownership
+- 18 decimals.
+- Minting and burning capability with onlyOwner access control.
+- Ability to transfer ownership
     
 ## Contract link 
 - ERC20 Token was deployed [here](https://goerli.etherscan.io/address/0x231e291f97ab4e0815e41e42d9116bc581b32122).
