@@ -12,20 +12,20 @@
 ## Install
 With [npm](https://npmjs.org/) installed, run
 
-    $ npm install 
+    npm install 
 
 ## Compile
-    $ npx hardhat compile
+    npx hardhat compile
 
 ## Test Token function
-    $ npx hardhat test
+    npx hardhat test
     
 ## Create a .env file and set your personal key
   set your PRIVATE_KEY, infura ENDPOINT_URL (goerli) and ETHERSCAN_API_KEY
 
-    $ PRIVATE_KEY = ""
-    $ ENDPOINT_URL = ""
-    $ ETHERSCAN_API_KEY = ""
+    PRIVATE_KEY = ""
+    ENDPOINT_URL = ""
+    ETHERSCAN_API_KEY = ""
 
 ## Deploy to goerli    
     npx hardhat run scripts/deploy.js --network goerli
